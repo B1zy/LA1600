@@ -49,7 +49,7 @@ In unserem Projekt haben wir uns dazu entschieden eine Website zu erstellen bei 
 ### 1.4 Diagramme
 
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
-
+![Use-Case](https://i.imgur.com/hbueRZh.png)
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |           11.5 - 18.5 - 25.5
