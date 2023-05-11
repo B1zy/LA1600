@@ -52,7 +52,7 @@ In unserem Projekt haben wir uns dazu entschieden eine Website zu erstellen bei 
 ![Use-Case](https://i.imgur.com/hbueRZh.png)
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |           11.5 - 18.5 - 25.5
+| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |          
 | ---- | ----- | --------- | ------------ | ------------- |
 | 0.A  |11.5|Christian|Tabelle erstellen mit den verschiedenen Handyeigenschaften|     45min     |
 | 0.B  |11.5|Shahir|Erstellen der individuelle Beschreibung |     45min     |
