@@ -1,115 +1,108 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Andrew Tate</title>
+    <title>Website Name</title>
     <style>
-        /* General styles */
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
             margin: 0;
             padding: 0;
-            color: #333;
         }
 
-        header, nav, section, footer {
-            padding: 20px;
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
         }
 
-        h1, h2 {
-            color: #444;
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #f1f1f1;
+            padding: 1rem;
         }
 
-        ul {
-            list-style: none;
-            padding: 0;
+        nav a {
+            color: black;
+            text-decoration: none;
+            padding: 0 1rem;
         }
 
-        img {
+        nav a:hover {
+            color: blue;
+        }
+
+        .phone {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .phone-item {
+            box-sizing: border-box;
+            width: 300px;
+            border: 1px solid #ccc;
+            margin: 1rem;
+            padding: 1rem;
+            text-align: center;
+        }
+
+        .phone-item img {
             max-width: 100%;
             height: auto;
         }
 
-        /* Header styles */
-        header {
-            background-color: #f4f4f4;
-            text-align: center;
-        }
-
-        /* Navigation styles */
-        nav {
-            background-color: #333;
-            text-align: center;
-            margin-bottom: 20px;
-        }
-
-        nav ul li {
-            display: inline;
-        }
-
-        nav ul li a {
+        .phone-item a {
             display: inline-block;
-            padding: 10px;
-            color: #fff;
+            color: blue;
             text-decoration: none;
+            margin-top: 1rem;
         }
 
-        nav ul li a:hover {
-            background-color: #444;
-        }
-
-        /* Section styles */
-        section {
-            margin-bottom: 20px;
-        }
-
-        /* Footer styles */
-        footer {
-            background-color: #f4f4f4;
-            text-align: center;
+        .phone-item a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
+
 <body>
     <header>
-        <h1>Andrew Tate</h1>
+        <h1>Website Name</h1>
     </header>
-
     <nav>
-        <ul>
-            <li><a href="#about">About</a></li>
-            <li><a href="#achievements">Achievements</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
+        <a href="#phone1">Phone 1</a>
+        <a href="#phone2">Phone 2</a>
+        <a href="#phone3">Phone 3</a>
+        <!-- Add more phone links here -->
     </nav>
+    <section class="phone">
+        <div class="phone-item" id="phone1">
+            <h2>Phone 1</h2>
+            <img src="phone1-image.jpg" alt="Phone 1">
+            <p>Short description of Phone 1.</p>
+            <a href="phone1-details.html">View Details</a>
+        </div>
+        <div class="phone-item" id="phone2">
+            <h2>Phone 2</h2>
+            <img src="phone2-image.jpg" alt="Phone 2">
+            <p>Short description of Phone 2.</p>
+            <a href="phone2-details.html">View Details</a>
+        </div>
 
-    <section id="about">
-        <h2>About Andrew Tate</h2>
-        <p>
-            Andrew Tate is a British-American businessman, kickboxer, and social media personality. He is a former world kickboxing champion and has since become a successful entrepreneur and life coach, sharing his experiences and expertise with others.
-        </p>
-        <img src="https://i.imgur.com/NQQq97u.jpg" alt="Andrew Tate">
+        <div class="phone-item" id="phone3">
+            <h2>Phone 3</h2>
+            <img src="phone3-image.jpg" alt="Phone 3">
+            <p>Short description of Phone 3.</p>
+            <a href="phone3-details.html">View Details</a>
+        </div>
+
+        <!-- Add more phone items here -->
     </section>
+</body>
 
-    <section id="achievements">
-        <h2>Achievements</h2>
-        <ul>
-            <li>Four-time World Kickboxing Champion</li>
-            <li>Successful entrepreneur and life coach</li>
-            <li>Appeared on reality TV show "Big Brother"</li>
-        </ul>
-        <img src="https://via.placeholder.com/350x150" alt="Andrew Tate in action">
-    </section>
-
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>
-            To get in touch with Andrew Tate, visit his official website or follow him on social media.
-        </p>
-        <img src="https://via.placeholder.com/350x150" alt="Andrew Tate on social media">
-    </section>
-
-    <footer>
-        <p>&copy; 2023 Andrew
+</html>
