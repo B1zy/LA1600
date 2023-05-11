@@ -55,7 +55,7 @@ In unserem Projekt haben wir uns dazu entschieden eine Website zu erstellen bei 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |          
 | ---- | ----- | --------- | ------------ | ------------- |
 | 0.A  |11.5|Christian|Tabelle erstellen mit den verschiedenen Handyeigenschaften|     45min     |
-| 0.B  |11.5|Shahir|Erstellen der individuelle Beschreibung |     45min     |
+| 0.B  |11.5|Shahir|Erstellen der individuelle Beschreibungsseite |     45min     |
 | 0.C  |11.5|Kamil|Erstellen der Starseite|     45min     |
 | 1.A  |11.5|Christian|Erstellen der Unterseite für den Vergleich|     45min     |
 | 1.B  |18.5|Christian|Erstellen der Tabelle und eintragen der Daten|     45min     |
@@ -99,7 +99,14 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
+| 0.A  |11.5|Christian|45min|45min|
+| 0.B  |11.5|Shahir|45min|noch nicht fertig|
+| 0.C  |11.5|Kamil|45min|45min|
+| 1.A  |11.5|Christian|45min|noch nicht fertig|
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
