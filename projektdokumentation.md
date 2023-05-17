@@ -99,6 +99,11 @@ Total:
 
 ✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
 
+Wir haben uns entschieden, drei Websites zu erstellen, damit wir die Arbeit besser aufteilen können.
+Kamil Homepage
+Christian Handy genau Informationen
+Shahir Vergleich
+
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
