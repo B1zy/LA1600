@@ -4,7 +4,7 @@ Date - Aeschlimann, Bashiri, Bielski
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | Erster Prototyp der Website  |
+| 11.5.23      | 0.0.1   | Erster Prototyp der Website  |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
