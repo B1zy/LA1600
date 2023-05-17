@@ -50,7 +50,11 @@ In unserem Projekt haben wir uns dazu entschieden eine Website zu erstellen bei 
 
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
 ![Use-Case](https://i.imgur.com/hbueRZh.png)
-## 2 Planen
+![Skizze1](https://i.imgur.com/4ztGMAo.jpg)
+![Skizze2](https://i.imgur.com/b8SbpBy.jpg)
+![Skizze3](https://i.imgur.com/MilYD99.jpg)
+## 2 Planen!
+
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |          
 | ---- | ----- | --------- | ------------ | ------------- |
