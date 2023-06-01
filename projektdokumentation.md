@@ -28,6 +28,16 @@ In unserem Projekt haben wir uns dazu entschieden eine Website zu erstellen bei 
 | 8  |Kann|Qualität|Als ein Benutzer möchte ich dass die Startseite übersichtlich gestaltet ist, damit ich alles schnell finde.|
 | 9  |Kann|Rand|Als ein Benutzer möchte ich dass die Website auch auf Englisch verfügbar ist, damit man dies auswählen kann welches einem einfacher fällt.|
 | 10  |Kann|Qualität|Als ein Benutzer möchte ich dass die Website im Darkmode verfügbar ist, damit es nicht zu hell / zu dunkel ist.|
+| 11 | Muss | Funktional | Als Benutzer möchte ich, dass die einzelnen Zeilen in der Tabelle auf der Vergleichswebseite hervorgehoben werden, wenn ich mit dem Cursor darüber fahre, damit ich mich besser orientieren und sehen kann, wo sich mein Cursor befindet |
+| 12 | Muss | Qualität | Als Benutzer möchte ich, dass, wenn ich ein Bild auf der Startseite anklicke, es grösser wird, damit ich die Bilder besser anschauen kann. |
+| 13 | Muss | Qualität | Als Benutzer möchte ich, dass die Bilder auf der Website im Hintergrund der Informationen platziert werden, dabei sollten sie mit einem Filter versehen werden und einen großen Kontrast zum Text aufweisen. Dadurch wird die Website einfacher zu lesen und sie sieht optisch ansprechender aus. |
+| 14 | Kann | Qualität | Als Benutzer möchte ich, dass die Navigation mich zu den Teilen der Website herunterscrollt, anstatt direkt dorthin zu springen, damit es klarer wird, was gerade passiert. |
+| ---- | --------------- | ---- | Als ein Benutzer möchte ich |
+| ---- | --------------- | ---- | Als ein Benutzer möchte ich |
+| ---- | --------------- | ---- | Als ein Benutzer möchte ich |
+
+
+
 
 
 ### 1.3 Testfälle
@@ -68,17 +78,15 @@ In unserem Projekt haben wir uns dazu entschieden eine Website zu erstellen bei 
 | 5.A  |18.5|Kamil|Darstellung der Beschreibung verschöneren 1|     45min     |
 | 5.B  |18.5|Kamil|Darstellung der Beschreibung verschöneren 2|     45min     |
 | 7.A  |18.5|Shahir|Erstellung der individuellen Beschreibung der Handys|     45min     |
-| 7.B  |18.5|Shahir|Einfügen der 3D modellen der einzelnen Handys|     45min     |
-| ...  |       |           |              |     45min     |
-| ...  |       |           |              |     45min     |
-| ...  |       |           |              |     45min     |
-| ...  |       |           |              |     45min     |
-| ...  |       |           |              |     45min     |
-| ...  |       |           |              |     45min     |
-| ...  |       |           |              |     45min     |
-| ...  |       |           |              |     45min     |
-| ...  |       |           |              |     45min     |
-| ...  |       |           |              |     45min     |
+| 8.A  |25.5|Kamil|Gestalltung startwebsite|     45min     |
+| 9.A  | 22.6      |---|Website auf Englisch|     45min     |
+| 10.A  |1.6|Kamil|Darkmode mit media queries |     45min     |
+| 10.B  |1.6|Kamil|Darkmode Button|     15min     |
+| 11.A  |8.6|      Shahir     |Tabelle übersichtlicher und schöner gestalltet|     45min     |
+| 12.A  |8.6|Kamil|Bild wird grösser wenn man es anklickt|     45min     |
+| 13.A  |8.6|Kamil|Bild ist im hintergrund von informationen|     45min     |
+| 13.B  |8.6|Kamil|Die Farbe von den Text wird angepasst zu den einzelnen Bilder, durch filter|     45min     |
+| 14.A  |8.6|Kamil|Navigation scrollt|     20min     |
 | ...  |       |           |              |     45min     |
 | ...  |       |           |              |     45min     |
 | ...  |       |           |              |     45min     |
