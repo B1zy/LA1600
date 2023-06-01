@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Handyvergleich</title>
+    <link rel="stylesheet" href="/styles.css">
+   
+</head>
+
+<body class ="dark-mode">
+    <header class = "dark-mode">
+        <h1>Handyvergleich</h1>
+    </header>
+    <nav class = "dark-mode2">
+        <a href="#phone1">iPhone 14</a>
+        <a href="#phone2">Samsung Galaxy S23</a>
+        <a href="#phone3">Google Pixel 7 pro</a>     
+    </nav>
+    <input id  = "dark-mode-check" type ="checkbox">
+    <label for = "dark-mode-check">dark mode</label>
+    <section class="phone dark-mode">
+        <div class="phone-item" id="phone1">
+            <h2>iPhone 14</h2>
+            <img src="iPhone.jpg" alt="iPhone 14" width="100">
+            <p>Das iPhone 14 überzeugt mit seinem Eleganten Gesammtbild und mit dem Leistungstarken A15 Chip. </p>
+            <a href="iPhone.html">View Details</a>
+        </div>
+        <div class="phone-item" id="phone2">
+            <h2>Samsung Galaxy S23 Ultra</h2>
+            <img src="Samsung.jpg" alt="Samsung Galaxy S23 Ultra" width="100">
+            <p>Das Samsung Galaxy S23 Ultra ist das neue Flagschiff des Koreanischen Technikunternehmen, der Hauptvorteil des neuen Smartphone ist die Kamera.</p>
+            <a href="Samsung.html">View Details</a>
+        </div>
+
+        <div class="phone-item" id="phone3">
+            <h2>Google Pixel 7 Pro</h2>
+            <img src="Google.jpg" alt="Google Pixel 7 Pro" width="100">
+            <p>Das Google Pixel 7 Pro gehört zur 7ten Generation der Google Pixel Smartphones.</p>
+            <a href="Google.html">View Details</a>
+        </div>
+
+      </section>
+</body>
+
+</html>
