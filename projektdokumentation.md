@@ -6,7 +6,7 @@ Date - Aeschlimann, Bashiri, Bielski
 | ----- | ------- | ------------------------------------------------------------ |
 | 11.5.23      | 0.0.1   | Erster Prototyp der Website  |
 |25.5.23| 0.0.1     |---|
-| 1.6.23 | 0.0.2 | Bilder für Startseite, neue US und AP |
+| 1.6.23 | 0.0.2 | Bilder für Startseite, Sowie komplette überarbeitung, neue US und AP |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
