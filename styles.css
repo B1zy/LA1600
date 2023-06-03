@@ -5,6 +5,15 @@
             padding: 0;
         }
 
+        #dark-mode-check:checked ~ .page-content header {
+        background-color: black;
+        color: white;
+        }
+
+        #dark-mode-check:checked ~ .page-content nav a {
+            color: white;
+                
+        }
         header {
             background-color: #333;
             color: white;
