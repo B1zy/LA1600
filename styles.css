@@ -4,6 +4,12 @@
             margin: 0;
             padding: 0;
         }
+        .page-content {
+            background-color: white;
+            color: black;
+            transition: background-color 0.5s, color 0.5s;
+        }
+
 
         #dark-mode-check:checked ~ .page-content header {
         background-color: black;
@@ -24,8 +30,8 @@
         nav {
             display: flex;
             justify-content: center;
-            background-color: #f1f1f1;
-            padding: 1rem;
+            border: 1px solid #ccc;
+
         }
 
         nav a {
