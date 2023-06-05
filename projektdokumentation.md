@@ -118,7 +118,7 @@ Shahir Vergleich
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 0.A  |11.5|Christian|45min|45min|
-| 0.B  |11.5|Shahir|45min|noch nicht fertig|
+| 0.B  |11.5|Shahir|45min|45min|
 | 0.C  |11.5|Kamil|45min|45min|
 | 1.A  |11.5|Christian|45min|30min|
 | 3.A  |1.6|Christian|45min|45min|
