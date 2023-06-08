@@ -1,20 +1,6 @@
-| Handy | Marke | Akku (in mAh) | Kamera (in MP) | Speicherplatz | Bildschirmgrösse (in Zoll) | Prozessor | anz. Herz | Arbeitsspeicher | Betriebssystem | Anschluss | Ladegeschwindigkeit in 
+| Handy | Marke | Akku (in mAh) | Kamera (in MP) | Speicherplatz (in GB) | Bildschirmgrösse (in Zoll) | Prozessor | anz. Herz | Arbeitsspeicher (in GB) | Betriebssystem | Anschluss | Ladegeschwindigkeit (in Watt) 
 |-------|-------|---------------|----------------|---------------|----------------------------|-----------|-----------|-----------------|----------------|-----------|-----------------------
-|IPhone 14|       |               |                |               |                            |
-|IPhone 13|       |               |                |               |                            |
-|IPhone SE|       |               |                |               |                            |
-|Samsung Galaxy S23|       |               |                |               |                            |
-|Samsung Galaxy S22|       |               |                |               |                            |
-|Samsung Z Flip4|       |               |                |               |                            |
-|Samsung A54|       |               |                |               |                            |
-|OPPO Find N2 Flip|       |               |                |               |                            |
-|OPPO Find X5|       |               |                |               |                            |
-|OPPO Find X3 Pro|       |               |                |               |                            |
-|Huawei P50 Pro|       |               |                |               |                            |
-|Huawei P50 Pocket|       |               |                |               |                            |
-|Xiaomi 12|       |               |                |               |                            |
-|Xiaomi 13|       |               |                |               |                            |
-|Xiaomi 11|       |               |                |               |                            |
-|Google Pixel 7|       |               |                |               |                            |
-|Google Pixel Fold|       |               |                |               |                            |
-|Google Pixel 6a|       |               |                |               |                            |
+|IPhone 14 (Basismodell)|  Apple     | 3279     | 12                |  128             |   6.1         |   Apple A15 Bionic |60 | 6 | IOS 17 | Lightning | 15|
+|Samsung Galaxy S23 (Basismodell)| Samsung      | 3900         |  50   |    128            |  6.1            |  Qualcomm Snapdragon 8 Gen 2     | 120|8 | One Ui 5.1 (Android 13)| USB C | 25 |
+|Google Pixel 7 Pro (Basismodell)|  Google     |  5000    |  50  |     128           |  6.7      | Google Tensor G2   |120| 8| Android 13|USB C | 23|
+
