@@ -1,6 +1,6 @@
 # Projekt-Dokumentation   
  
-Date - **Aeschlimann**, Bashiri, Bielski   
+Date - <sub><sub><sub>Aeschlimann</sub></sub></sub>, Bashiri, Bielski   
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
