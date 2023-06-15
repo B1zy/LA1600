@@ -11,7 +11,6 @@ Date - <sub><sub><sub>Aeschlimann</sub></sub></sub>, Bashiri, Bielski
 | 14.6.23 | 0.0.4 | Grid layout erstellt, darkmode toggle schöner gemacht |
 | ----- | ------- | ------------------------------------------------------------ |
 | ----- | ------- | ------------------------------------------------------------ |
-
 |       | 1.0.0   |                                                              |
 
 
