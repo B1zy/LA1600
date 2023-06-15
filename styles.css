@@ -12,7 +12,17 @@ body#iphone .phone-details {
     height: 85vh;
 }
 body#iphone .phone-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    width: 100%;
+    border: 1px solid #ccc;
+    margin: 1rem 0;
+    padding: 1rem;
+    max-width: 400px;
     text-align: center;
+  
 }
 body#samsung .phone-details {
     display: flex;
@@ -21,6 +31,15 @@ body#samsung .phone-details {
     height: 85vh;
 }
 body#samsung .phone-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    width: 100%;
+    border: 1px solid #ccc;
+    margin: 1rem 0;
+    padding: 1rem;
+    max-width: 450px;
     text-align: center;
 }
 body#google .phone-details {
@@ -31,6 +50,15 @@ body#google .phone-details {
 
 }
 body#google .phone-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+    width: 100%;
+    border: 1px solid #ccc;
+    margin: 1rem 0;
+    padding: 1rem;
+    max-width: 400px;
     text-align: center;
 }
 header h1 a {
