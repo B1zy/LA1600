@@ -112,3 +112,40 @@ table, th, tr,td  {
 .phone-item a:hover {
   text-decoration: underline;
 }
+body#iphone .phone-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+
+body#iphone .phone-item {
+    text-align: center;
+}
+
+body#samsung .phone-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+
+body#samsung .phone-item {
+    text-align: center;
+}
+
+body#google .phone-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 85vh;
+}
+
+body#google .phone-item {
+    text-align: center;
+}
+header h1 a {
+    color: inherit;
+    text-decoration: none;
+}
+
