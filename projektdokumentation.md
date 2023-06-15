@@ -8,7 +8,12 @@ Date - <sub><sub><sub>Aeschlimann</sub></sub></sub>, Bashiri, Bielski
 |25.5.23| 0.0.1     |---|
 | 1.6.23 | 0.0.2 | Bilder für Startseite, Sowie komplette überarbeitung der Startseite, neue US und AP, beginn entwicklung Darkmode. |
 | 5.6.23 | 0.0.3 | dark mode fertig |
+| 14.6.23 | 0.0.4 | Grid layout erstellt, darkmode toggle schöner gemacht |
+| ----- | ------- | ------------------------------------------------------------ |
+| ----- | ------- | ------------------------------------------------------------ |
+
 |       | 1.0.0   |                                                              |
+
 
 
 
