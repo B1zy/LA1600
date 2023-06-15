@@ -61,7 +61,7 @@ In unserem Projekt haben wir uns dazu entschieden eine Website zu erstellen bei 
 | 7.1  |Website offen|runter scrollen|Man findet eine Beschreibung der Handys vor|
 | 8.1  |Website offen|keine|Man findet eine übersichtliche Website vor|
 | 9.1  |Website offen|Sprache auf Englisch stellen|die Website wird nun auf Englisch dargestellt|
-| 10.1 |Webite offen|Darkmode aktivieren|Die Seite wechselt in den Darkmode|
+| 10.1 |Website offen|Darkmode aktivieren|Die Seite wechselt in den Darkmode|
 
 
 ### 1.4 Diagramme
@@ -119,6 +119,7 @@ Wir haben uns entschieden, drei Websites zu erstellen, damit wir die Arbeit bess
 Kamil Homepage
 Christian Handy genau Informationen
 Shahir Vergleich
+Wir haben uns entschieden den Vergleich auf den Gomepage machen
 
 ## 4 Realisieren
 
@@ -130,7 +131,7 @@ Shahir Vergleich
 | 1.A  |11.5|Christian|45min|30min|
 | 3.A  |1.6|Christian|45min|45min|
 | 10.A  |1.6|Kamil|45min|60min|
-| ...  |       |           |               |                   |
+| 10.B  |1.6|kamil|"|"|
 | ...  |       |           |               |                   |
 | ...  |       |           |               |                   |
 
