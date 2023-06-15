@@ -67,6 +67,7 @@ In unserem Projekt haben wir uns dazu entschieden eine Website zu erstellen bei 
 ### 1.4 Diagramme
 
 ✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+
 ![Use-Case](https://i.imgur.com/hbueRZh.png)
 ![Skizze1](https://i.imgur.com/4ztGMAo.jpg)
 ![Skizze2](https://i.imgur.com/b8SbpBy.jpg)
