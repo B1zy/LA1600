@@ -91,7 +91,7 @@ In unserem Projekt haben wir uns dazu entschieden eine Website zu erstellen bei 
 | 10.A  |1.6|Kamil|Darkmode mit media queries |     45min     |
 | 10.B  |1.6|Kamil|Darkmode Button|     15min     |
 | 11.A  |8.6|      Shahir     |Tabelle übersichtlicher und schöner gestalltet|     45min     |
-| 12.A  |8.6|Kamil|Bild wird grösser wenn man es anklickt|     45min     |
+| 12.A  |8.6|Christian|Bild wird grösser wenn man es anklickt|     45min     |
 | 13.A  |8.6|Kamil|Bild ist im hintergrund von informationen|     45min     |
 | 13.B  |8.6|Kamil|Die Farbe von den Text wird angepasst zu den einzelnen Bilder, durch filter|     45min     |
 | 14.A  |8.6|Kamil|Navigation scrollt|     20min     |
