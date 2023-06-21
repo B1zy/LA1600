@@ -40,9 +40,9 @@ In unserem Projekt haben wir uns dazu entschieden eine Website zu erstellen bei 
 | 12 | Muss | Qualität | Als Benutzer möchte ich, dass, wenn ich ein Bild auf der Startseite anklicke, es grösser wird, damit ich die Bilder besser anschauen kann. |
 | 13 | Muss | Qualität | Als Benutzer möchte ich, dass die Bilder auf der Website im Hintergrund der Informationen platziert werden, dabei sollten sie mit einem Filter versehen werden und einen großen Kontrast zum Text aufweisen. Dadurch wird die Website einfacher zu lesen und sie sieht optisch ansprechender aus. |
 | 14 | Kann | Qualität | Als Benutzer möchte ich, dass die Navigation mich zu den Teilen der Website herunterscrollt, anstatt direkt dorthin zu springen, damit es klarer wird, was gerade passiert. |
-| ---- | --------------- | ---- | Als ein Benutzer möchte ich |
-| ---- | --------------- | ---- | Als ein Benutzer möchte ich |
-| ---- | --------------- | ---- | Als ein Benutzer möchte ich |
+| 15 | Muss | Qualität | Als Benutzer möchte ich, dass, wenn ich auf die Name der Website klicke wieder auf die Startseite gehe. |
+| 16 | Muss | Qualität | Als Benutzer möchte ich, eine kleine Beschreibung von alle Handys. |
+| 17 | Kann | Qualität | Als Benutzer möchte ich sehen wie die Handys aussehen. |
 
 
 
