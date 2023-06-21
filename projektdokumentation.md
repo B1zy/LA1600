@@ -96,15 +96,8 @@ In unserem Projekt haben wir uns dazu entschieden eine Website zu erstellen bei 
 | 13.A  |8.6|Kamil|Bild ist im hintergrund von informationen|     45min     |
 | 13.B  |8.6|Kamil|Die Farbe von den Text wird angepasst zu den einzelnen Bilder, durch filter|     45min     |
 | 14.A  |8.6|Kamil|Navigation scrollt|     20min     |
-| ...  |       |           |              |     45min     |
-| ...  |       |           |              |     45min     |
-| ...  |       |           |              |     45min     |
-| ...  |       |           |              |     45min     |
-| ...  |       |           |              |     45min     |
-| ...  |       |           |              |     45min     |
-| ...  |       |           |              |     45min     |
-| ...  |       |           |              |     45min     |
-| ...  |       |           |              |     45min     |
+| 15.A  |15.6    | Shahir          |  Englisch Version für alle Websiten            |     45min     |
+
 
 Total: 
 
