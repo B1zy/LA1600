@@ -88,7 +88,7 @@ In unserem Projekt haben wir uns dazu entschieden eine Website zu erstellen bei 
 | 5.B  |18.5|Kamil|Darstellung der Beschreibung verschöneren 2|     45min     |
 | 7.A  |18.5|Shahir|Erstellung der individuellen Beschreibung der Handys|     45min     |
 | 8.A  |25.5|Kamil|Gestalltung startwebsite|     45min     |
-| 9.A  | 22.6      |---|Website auf Englisch|     45min     |
+| 9.A  | 22.6      |Shahir|Website auf Englisch|     45min     |
 | 10.A  |1.6|Kamil|Darkmode mit media queries |     45min     |
 | 10.B  |1.6|Kamil|Darkmode Button|     15min     |
 | 11.A  |8.6|      Shahir     |Tabelle übersichtlicher und schöner gestalltet|     45min     |
@@ -96,7 +96,7 @@ In unserem Projekt haben wir uns dazu entschieden eine Website zu erstellen bei 
 | 13.A  |8.6|Kamil|Bild ist im hintergrund von informationen|     45min     |
 | 13.B  |8.6|Kamil|Die Farbe von den Text wird angepasst zu den einzelnen Bilder, durch filter|     45min     |
 | 14.A  |8.6|Kamil|Navigation scrollt|     20min     |
-| 15.A  |15.6    | Shahir          |  Englisch Version für alle Websiten            |     45min     |
+
 
 
 Total: 
