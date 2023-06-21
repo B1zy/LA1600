@@ -149,7 +149,18 @@ table, th, tr,td  {
   width: 50%;
   border :1px solid #000000;
 }
+table tr:hover {
+  background-color: #ddd; 
+}
+.table {
+  table-layout: fixed;
+  width: 60%; /* Specify a width if you want */
+}
 
+.table th, 
+.table td {
+  width: 33.33%; /* Or whatever percentage you need */
+}
 .phone {
   display: flex;
   flex-wrap: wrap;
