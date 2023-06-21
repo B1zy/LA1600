@@ -14,6 +14,11 @@ Date - <sub><sub><sub>Aeschlimann</sub></sub></sub>, Bashiri, Bielski
 | 15.6.23 | 0.4.1| Darkmode toggle schöner gemacht |
 | 15.6.23 |0.4.2 | Homepage mit table prototyp hochgeladen |
 | 15.6.23 | 0.5.0 | Individuelle Seiten für alle Handys |
+| 15.6.23 | 0.5.1 | Tabellen implementiert|
+| 15.6.23 | 0.5.2 | Hervorhebung Tabellenzeilen|
+| 15.6.23 | 0.6.0 | Englisch implementation anfang|
+
+
 
 
 ## 1 Informieren
