@@ -123,11 +123,16 @@ Wir haben uns entschieden den Vergleich auf den Gomepage machen
 | 0.B  |11.5|Shahir|45min|45min|
 | 0.C  |11.5|Kamil|45min|45min|
 | 1.A  |11.5|Christian|45min|30min|
+| 1.B  |18.5|Kamil|    45min     |     45min     |
 | 3.A  |1.6|Christian|45min|45min|
-| 10.A  |1.6|Kamil|45min|60min|
-| 10.B  |1.6|kamil|"|"|
-| ...  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 5.A  |18.5|Kamil|    45min     |    45min     |
+| 5.B  |18.5|Kamil|     45min     |    45min     |
+| 7.A  |18.5|Shahir|    45min     |    45min     |
+| 8.A  |25.5|Kamil|    45min     |    45min     |
+| 9.A  | 22.6      |Shahir||     45min     |    45min     |
+| 10.A  |1.6|Kamil|     45min     |    60min     |
+| 10.B  |1.6|Kamil|     15min     |    45min     |
+| 11.A  |8.6|      Shahir     |   45min     |    45min     |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
