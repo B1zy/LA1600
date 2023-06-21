@@ -4,16 +4,16 @@ Date - <sub><sub><sub>Aeschlimann</sub></sub></sub>, Bashiri, Bielski
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 11.5.23      | 0.1  | Erster Prototyp der Website  |
-| 1.6.23 | 1.0 | Bilder für Startseite
-| 1.6.23 | 1.1 | Sowie komplette überarbeitung der Startseite |
-| 1.6.23 | 1.2 | Neue US und AP, beginn entwicklung Darkmode. |
-| 1.6.23 | 1.3 | Beginn entwicklung Darkmode. |
-| 6.6.23 | 2.0 | Dark mode fertig germacht|
-| 15.6.23 | 3.0 | Grid layout erstellt |
-| 15.6.23 | 3.1 | Darkmode toggle schöner gemacht |
-| 15.6.23 | 3.2 | Homepage mit table prototyp hochgeladen |
-| 15.6.23 | 3.3 | Individuelle Seiten für alle Handys |
+| 11.5.23      | 0.0.1  | Erster Prototyp der Website  |
+| 1.6.23 | 0.1.0| Bilder für Startseite
+| 1.6.23 |0.2.0| komplette überarbeitung der Startseite |
+| 1.6.23 |0.3.0| Neue US und AP, beginn entwicklung Darkmode. |
+| 1.6.23 |0.3.1 | entwicklung Darkmode. |
+| 6.6.23 | 0.3.2| Dark mode fertig germacht|
+| 15.6.23 | 0.4.0| Grid layout erstellt |
+| 15.6.23 | 0.4.1| Darkmode toggle schöner gemacht |
+| 15.6.23 |0.4.2 | Homepage mit table prototyp hochgeladen |
+| 15.6.23 | 0.5.0 | Individuelle Seiten für alle Handys |
 
 
 ## 1 Informieren
@@ -92,6 +92,7 @@ In unserem Projekt haben wir uns dazu entschieden eine Website zu erstellen bei 
 | 10.A  |1.6|Kamil|Darkmode mit media queries |     45min     |
 | 10.B  |1.6|Kamil|Darkmode Button|     15min     |
 | 11.A  |8.6|      Shahir     |Tabelle übersichtlicher und schöner gestalltet|     45min     |
+| 11.B  |8.6|      Kamil     |Tabellenzeilen hervorheben|     45min     |
 | 12.A  |8.6|Christian|Bild wird grösser wenn man es anklickt|     45min     |
 | 13.A  |8.6|Kamil|Bild ist im hintergrund von informationen|     45min     |
 | 13.B  |8.6|Kamil|Die Farbe von den Text wird angepasst zu den einzelnen Bilder, durch filter|     45min     |
@@ -133,6 +134,8 @@ Wir haben uns entschieden den Vergleich auf den Gomepage machen
 | 10.A  |1.6|Kamil|     45min     |    60min     |
 | 10.B  |1.6|Kamil|     15min     |    45min     |
 | 11.A  |8.6|      Shahir     |   45min     |    45min     |
+| 11.B  |8.6|      Kamil     |   45min     |    45min     |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
