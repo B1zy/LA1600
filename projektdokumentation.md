@@ -129,7 +129,7 @@ Wir haben uns entschieden den Vergleich auf den Gomepage machen
 | 5.B  |18.5|Kamil|     45min     |    45min     |
 | 7.A  |18.5|Shahir|    45min     |    45min     |
 | 8.A  |25.5|Kamil|    45min     |    45min     |
-| 9.A  | 22.6      |Shahir||     45min     |    45min     |
+| 9.A  | 22.6      |Shahir|    45min     |    45min     |
 | 10.A  |1.6|Kamil|     45min     |    60min     |
 | 10.B  |1.6|Kamil|     15min     |    45min     |
 | 11.A  |8.6|      Shahir     |   45min     |    45min     |
