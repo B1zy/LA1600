@@ -4,16 +4,16 @@ Date - <sub><sub><sub>Aeschlimann</sub></sub></sub>, Bashiri, Bielski
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 11.5.23      | 0.0.1   | Erster Prototyp der Website  |
-|25.5.23| 0.0.1     |---|
-| 1.6.23 | 0.0.2 | Bilder für Startseite, Sowie komplette überarbeitung der Startseite, neue US und AP, beginn entwicklung Darkmode. |
-| 5.6.23 | 0.0.3 | dark mode fertig |
-| 14.6.23 | 0.0.4 | Grid layout erstellt, darkmode toggle schöner gemacht, Homepage mit table prototyp hochgeladen |
-| ----- | ------- | ------------------------------------------------------------ |
-| ----- | ------- | ------------------------------------------------------------ |
-|       | 1.0.0   |                                                              |
-
-
+| 11.5.23      | 0.1  | Erster Prototyp der Website  |
+| 1.6.23 | 1.0 | Bilder für Startseite
+| 1.6.23 | 1.1 | Sowie komplette überarbeitung der Startseite |
+| 1.6.23 | 1.2 | Neue US und AP, beginn entwicklung Darkmode. |
+| 1.6.23 | 1.3 | Beginn entwicklung Darkmode. |
+| 6.6.23 | 2.0 | Dark mode fertig germacht|
+| 15.6.23 | 3.0 | Grid layout erstellt |
+| 15.6.23 | 3.1 | Darkmode toggle schöner gemacht |
+| 15.6.23 | 3.2 | Homepage mit table prototyp hochgeladen |
+| 15.6.23 | 3.3 | Individuelle Seiten für alle Handys |
 
 
 ## 1 Informieren
