@@ -208,3 +208,26 @@ header h1 a {
     text-decoration: none;
 }
 
+.language-checkbox {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 14px;
+  color: #2196f3;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.language-checkbox-label {
+  display: inline-block;
+}
+
+.language-checkbox-label:hover {
+  text-decoration: underline;
+}
+
+#language-checkbox:checked + .language-checkbox-label::before {
+  content: "\2713";
+}
+
+
